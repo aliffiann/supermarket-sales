@@ -7,7 +7,7 @@ Average supermarket sales growth rate in the past 3 months fell 4.5%
 How we can increase sales with customer membership by 10% in 3 months?
 
 ##
-[Dasboard](https://public.tableau.com/app/profile/aliffian/viz/SupermarketSales_16760935325750/SupermarketSales) |
+[Dashboard](https://public.tableau.com/app/profile/aliffian/viz/SupermarketSales_16760935325750/SupermarketSales) |
 Medium article |
 Report file
 
