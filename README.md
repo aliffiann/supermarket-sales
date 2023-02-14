@@ -8,7 +8,7 @@ How we can increase sales with customer membership by 10% in 3 months?
 
 ##
 [Dashboard](https://public.tableau.com/app/profile/aliffian/viz/SupermarketSales_16760935325750/SupermarketSales) |
-Medium article |
+[Medium article](https://aliffian.medium.com/supermarket-sales-analysis-using-python-tableau-9133fc4e6665) |
 Report file
 
 **Contact me**
